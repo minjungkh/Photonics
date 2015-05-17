@@ -16,7 +16,10 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="pd_resistance.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   version="1.0">
+   version="1.0"
+   inkscape:export-filename="/home/vanderbruggen/ownCloud/Photonics/img/pd_resistance.png"
+   inkscape:export-xdpi="57.08194"
+   inkscape:export-ydpi="57.08194">
   <defs
      id="defs5446">
     <marker
@@ -141,6 +144,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
